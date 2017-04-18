@@ -1,3 +1,13 @@
+# README #
+
+Implement the Berlin Clock: https://en.wikipedia.org/wiki/Mengenlehreuhr
+
+### Feedback ###
+
+* The code was 'not what they expected', no further feedback received.
+
+### Instructions ###
+
 To quickly test the app just run:
 
 mvn clean test exec:java -Dexec.mainClass="com.test.App" -Dexec.args="16 38 11"
